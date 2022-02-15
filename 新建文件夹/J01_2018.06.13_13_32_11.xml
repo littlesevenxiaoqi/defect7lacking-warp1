@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.13_13_32_11.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lacking-warp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>701</xmin>
+			<ymin>263</ymin>
+			<xmax>768</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+</annotation>
